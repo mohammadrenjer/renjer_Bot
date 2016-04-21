@@ -502,9 +502,6 @@ NOD32 Commands list :
 
 11-bot number & support ^
 
-!botnumber
-دریافت شماره ربات
-
 !support
 دعوت سازنده ربات به گروه
 (در صورت وجود مشکل)
@@ -518,7 +515,8 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @Nod32Team
+channel: @renjerchannel
+Admin: @mohammad_jfr
 
 G00D LUCK ^_^
 ]]
