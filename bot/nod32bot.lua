@@ -321,7 +321,7 @@ ch: @Nod32team
 
 ]],
     help_text = [[
-NOD32 Commands list :
+Renjer Commands list :
  
 1-banhammer list ^
  
