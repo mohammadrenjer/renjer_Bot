@@ -216,7 +216,6 @@ function create_config( )
     "banhammer",
     "boobs",
     "bot_manager",
-    "botnumber",
     "broadcast",
     "calc",
     "download_media",
